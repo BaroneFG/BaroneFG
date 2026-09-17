@@ -6,7 +6,7 @@ I enjoy building tools that accelerate scientific discovery and make image-based
 - 🌍 Based in the Washington, D.C. area  
 - 🧪 Background: Molecular Biology, Neuroscience, Genetics (*Drosophila*)  
 - 💻 Skills: Python, ImageJ/Fiji, Napari, microscopy quantification  
-- 📬 Reach me at: [baronefg91@gmail.com](mailto:baronefg91@@gmail.com)  
+- 📬 Reach me at: [dr.baronefg@gmail.com](mailto:dr.baronefg@gmail.com)  
 - 🔗 ORCID: [0000-0003-4382-9313](https://orcid.org/0000-0003-4382-9313)  
 - 🌐 X (formerly Twitter): [@BaroneFraG](https://x.com/BaroneFraG)  
 - ✨ “Somewhere, something incredible is waiting to be known.” — *Carl Sagan*
